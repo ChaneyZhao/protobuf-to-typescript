@@ -1,0 +1,8 @@
+node_modules/
+.git
+.DS_Store
+input
+output
+lib
+package-lock.json
+yarn.lock
